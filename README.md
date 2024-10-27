@@ -22,7 +22,7 @@
 <img src="/System/ScreenShots/Register.png">
 <br>
 <h4>Employer Profile:</h4>
-<img src="/System/ScreenShots/EmployerProfile.png">
+<img src="/System/ScreenShots/EmployersProfile.png">
 <br>
 <h4>Employee Profile:</h4>
 <img src="/System/ScreenShots/EmployeeProfile.png">
